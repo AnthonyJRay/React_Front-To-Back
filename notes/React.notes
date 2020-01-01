@@ -21,3 +21,20 @@
 
 
 // You want to start your component filenames with a capital letter. e.g. Contacts.js
+// When adding props to a functional component, you don't use the "this" keyword.
+// Prop types and Type checking.
+// You can give components default props. Anything passed in will override your default props.
+// If you remove any props you passed in, it will revert back to your default props.
+
+// You can add inline CSS styling inside of tags with double curly braces.
+// <h1 style={{color: 'red'}}>
+// The value must be in quotes.
+// Don't forget the ending >.
+// You can add in additional styling with a comma.
+// You must use camelcase, unlike regular CSS.
+
+//    <h1 style={{ color: 'red', fontSize: '50px' }}>
+
+
+// You can also create a seperate stylesheet for each component.
+// import it into your component file at the top.
