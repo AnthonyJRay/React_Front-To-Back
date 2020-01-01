@@ -1,0 +1,10 @@
+// Public Folder
+// Inside the public folder is an index.html file, with an empty div with the id of root.
+// The root div is important because with is where the main react component is rendered.
+// This is where everything is going to be output in the DOM or the Browser.
+
+// Src folder
+// The src folder is where we build our application.
+// This is where we put all of our components etc.
+
+// ReactDOM has a method caled render(),
